@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">android-study</string>
+    <string name="main_text">Plus Game</string>
+    <string name="main_start_button">Start Game!</string>
+    <string name="edit_text_hint">Input your answer…</string>
+    <string name="timer_text">10:00</string>
+    <string name="game_over">Game Over!</string>
+    <string name="reason_format">Reason : %s</string>
+    <string name="game_over_reason_time_out_text">Time Out…</string>
+    <string name="game_over_reason_wrong_answer_format">Wrong answer… answer : %s</string>
 </resources>
