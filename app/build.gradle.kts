@@ -36,6 +36,9 @@ android {
     testOptions {
         unitTests.isReturnDefaultValues = true
     }
+    dataBinding {
+        isEnabled = true
+    }
     buildToolsVersion = AppConfig.buildToolsVersion
 }
 
