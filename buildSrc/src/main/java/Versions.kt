@@ -8,6 +8,8 @@ object Versions {
     const val appCompat = "1.4.1"
     const val material = "1.5.0"
     const val constraintLayout = "2.1.3"
+    const val coroutinesAndroid = "1.3.9"
+    const val viewModelKtx = "2.4.1"
 
     const val junit = "4.13.2"
     const val extJunit = "1.1.3"

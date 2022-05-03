@@ -10,6 +10,9 @@ object AppDependencies {
     private const val material = "com.google.android.material:material:${Versions.material}"
     private const val constraintLayout =
         "androidx.constraintlayout:constraintlayout:${Versions.constraintLayout}"
+    private const val viewModelKtx = "androidx.lifecycle:lifecycle-viewmodel-ktx:${Versions.viewModelKtx}"
+    private const val coroutinesAndroid =
+        "org.jetbrains.kotlinx:kotlinx-coroutines-android:${Versions.coroutinesAndroid}"
 
     private const val jUnit = "junit:junit:${Versions.junit}"
     private const val mockitoInline = "org.mockito:mockito-inline:${Versions.mockitoInline}"
@@ -24,6 +27,8 @@ object AppDependencies {
         add(appCompat)
         add(material)
         add(constraintLayout)
+        add(viewModelKtx)
+        add(coroutinesAndroid)
     }
 
     val testLibraries = mutableListOf<String>().apply {
