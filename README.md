@@ -5,7 +5,7 @@ A project for studying Android
 <img src="imgs/screenshot.jpg?raw=true" width="40%" height="40%" />
 
 ## Download Apk(Debug)
-[app-debug.apk](apk/app-debug.apk)
+[app-debug.apk](apk/app-debug.apk?raw=true)
 
 ## Study spec
 * AAC-MVVM Design pattern
